@@ -3,7 +3,7 @@
 # Förslag till kapitelstruktur
 
 1. **Inledning**.
-2. **Syfte och värde*
+2. **Syfte och värde**
 	1.  Varför kunskapskällor!?
 3. **Terminologi**
 	1. Termer och sammanhang.
