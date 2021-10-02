@@ -8,7 +8,7 @@
 	2.  Öppenhet, transparens och tillgänglighet.
 3. **Terminologi**
 	1. Termer och sammanhang.
-	2. Bilden på hur kunskapsskällor tillsammans med patientuppgifter och algortimer kan skapa beslutsstöd!
+	2. Bilden på hur kunskapsskällor tillsammans med patientuppgifter och algoritmer kan skapa beslutsstöd!
 	3. Vad är en kunskapsskälla? Vad är ett beslutsstöd?
 4. **Process, organisation och kompetens**
 	1. Think it, Build it, Ship it and Tweak it! Iterate!
