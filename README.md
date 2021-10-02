@@ -11,10 +11,11 @@
 	2. Bilden på hur kunskapsskällor tillsammans med patientuppgifter och algoritmer kan skapa beslutsstöd!
 	3. Vad är en kunskapsskälla? Vad är ett beslutsstöd?
 4. **Process, organisation och kompetens**
-	1. Think it, Build it, Ship it and Tweak it! Iterate!
-	2. Kontinuerlig utveckling och underhåll (tekniskt och innehållsmässigt). Att bestämma sig för lämplig releasecykel (tekniskt, innehållsmässigt).
-	3. Grundkompetenser: programmering och farmakologi.
-	4. Kompletterande kompetenser: eldsjäl, farmakologisk expertis inom kunskapskällans område, administrativt, ledning, söka anslag/finansiering, kommunikation/PR.
+	2. Think it, Build it, Ship it and Tweak it! Iterate!
+	3. Kontinuerlig utveckling och underhåll (tekniskt och innehållsmässigt). Att bestämma sig för lämplig releasecykel (tekniskt, innehållsmässigt).
+	4. Grundkompetenser: programmering och farmakologi.
+	5. Kompletterande kompetenser: eldsjäl, farmakologisk expertis inom kunskapskällans område, administrativt, ledning, söka anslag/finansiering, kommunikation/PR.
+	6. Vara nära den kliniska verkligheten och akademin!
 5. **Grundinformation att bygga på**
 	1. NPL & NSL
 	2. ATC
