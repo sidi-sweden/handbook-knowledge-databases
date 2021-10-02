@@ -5,6 +5,7 @@
 1. **Inledning**.
 2. **Syfte och värde**
 	1.  Varför kunskapskällor!?
+	2.  Öppenhet, transparens och tillgänglighet.
 3. **Terminologi**
 	1. Termer och sammanhang.
 	2. Bilden på hur kunskapsskällor tillsammans med patientuppgifter och algortimer kan skapa beslutsstöd!
