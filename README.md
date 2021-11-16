@@ -18,7 +18,7 @@
     5. Vikten av att vara nära den kliniska verkligheten och akademin!
 5. **Syfte och konceptuell modell**
     1. Vad är syftet med tillämpningen och vad är problemet man vill lösa och/eller värdet man vill skapa?
-    2. Vilka grundkoncept behövs? Dokumentera de grundkoncept som är centrala och hur de relaterar till varanda.
+    2. Vilka grundkoncept behövs? Dokumentera de grundkoncept som är centrala och hur de relaterar till varanda. Använde konkreta exempel där kunskapsskällan är tänkt att kunna användas!
 6. **Grundinformation att bygga på**
     1. Svenska datakällor:
         1. NPL & NSL
